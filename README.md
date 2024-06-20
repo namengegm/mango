@@ -7,6 +7,6 @@ This is a fruit juice application
 - Water
 - God
 
-'''
+```
 git clone
-'''
+```
